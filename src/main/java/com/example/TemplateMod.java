@@ -24,7 +24,5 @@ public class TemplateMod implements ModInitializer {
 
 		Registry.register(Registries.SOUND_EVENT, Identifier.of(MOD_ID, "anemo_burst"),
 				SoundEvent.of(Identifier.of(MOD_ID, "anemo_burst")));
-
-
 	}
 }
