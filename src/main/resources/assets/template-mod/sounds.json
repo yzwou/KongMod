@@ -1,0 +1,10 @@
+{
+  "anemo_charge": {
+    "category": "player",
+    "sounds": [{ "name": "template-mod:anemo_charge", "stream": true }]
+  },
+  "anemo_burst": {
+    "category": "player",
+    "sounds": [{ "name": "template-mod:anemo_burst" }]
+  }
+}
